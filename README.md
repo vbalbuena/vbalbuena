@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @vbalbuena
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning more abour backend technologies and improving my english
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ -->
+
+<!---
+vbalbuena/vbalbuena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
